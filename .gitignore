@@ -1,0 +1,5 @@
+python311/
+python-3.11.9-embed-amd64.zip
+get-pip.py
+__pycache__/
+*.pyc
